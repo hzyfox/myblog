@@ -7,7 +7,7 @@ tags:
 categories: 
 - tofel
 ---
-word list 12
+word list 12 | wordlist16
 word list 13
 word list 14
 word list 15
@@ -91,3 +91,26 @@ determine vt 决定 | deterrent n 制止物，威慑物 | detest vt 憎恶
 detract vi 去掉；减损 | detriment n 损害 | detrimental adj 有害的，有损的
 devastate vt 使荒废；使破坏 | develop v 发展；产生；成长 | deviate v 出轨；离题
 device n 器械，装置；设计
+## wordlist 16
+devious adj 曲折的 | devise vt 计划；发明 | devoid adj 缺乏的
+devoted adj 热心的 | devition n 献身；忠诚；专心 | devour vt 吞食，吞没；毁灭
+devout adj 虔诚的 | dexterous adj 灵巧的 | diagnose vt 诊断，分析
+diagnosis n 诊断 | diagram n 图表 | dialect n 方言，土语，地方话
+dialogue n 对话 | diameter n 直径 | dictatorial adj 独裁的，专断的
+didactic adj 教诲的，说教的 | diet n 饮食，食物，v 节食 | diffuse vt 传播，扩散
+dignified adj 尊严的，高贵的 dignify vt 使尊荣，使显贵 | digress vi 离开本题
+dilate vt 使膨胀，使扩大 | dilemma n 左右为难，困境 | diligent adj 勤勉的，勤奋的
+dilute vt 稀释；冲淡 | dim adj 昏暗的；朦胧的 | dimension n 尺度；维
+diminish vt 减少；缩小 | diminutive adj 小的 | dingy adj 昏暗的；肮脏的 
+dip v 浸，粘 | diplomacy n 外交，策略 | diplomatic adj 外交的；有策略的
+direct vt 引导 adj 直接地 | disarm vt 缴械；消除（敌意）| diaarming adj 消除敌意的
+disarrange vt 扰乱 | disarray n／vt 杂乱，混乱 | disater n 灾难
+disastrous adj 灾难性的；悲惨的 | disband v 解散 | disburse vt 支付，支出，分配
+discard vt 丢弃 | discern vt 辨明 | discernible adj 可察觉的
+discharge v 释放 | disciple n 门徒 | discipline n 学科；纪律；训练
+disclaim vt 拒绝承认，否认 | discord n 不和谐 | discount n／vt 打折扣
+discourse n 演讲；论文 | discreet adj 慎重的，谨慎的 | discrete 不连续的；离散的
+discretion n 判断力；慎重的 | discrimination n 歧视 | disdain vt 轻视，不屑 n 轻蔑
+disfigure vt 破坏 | disgraced adj 不光彩的，丢脸的 | disgust vt 厌恶
+disinterested adj 公正的 | dismal adj 沮丧的；阴暗的 | dismay vt 使沮丧；使惊愕
+disparage vt 轻视；毁谤
