@@ -7,8 +7,8 @@ tags:
 categories: 
 - tofel
 ---
-word list 12 | wordlist16
-word list 13
+word list 12 | word list 16
+word list 13 | word list 17
 word list 14
 word list 15
 <!-- more -->
@@ -25,8 +25,8 @@ conventional adj 传统的；习俗的 |convert vt 转换 |convey vt 判罪；�
 convoy vt 护送 |cooperation n 合作 |coordinate adj 同等的 并列的|
 copious adj 丰富的 |copper n 铜 |copy vt 复制；模仿|
 cordial adj 真诚的；诚恳的 |corps n 军团 |corpse n 尸体|
-corpulent adj 肥胖的 |correct adj 正确的 vt 纠正 |corrleate vt 相关联|
-correspondence n 对应；符合；通信 |corrobrate vt 确证 |corrode v 腐蚀|
+corpulent adj 肥胖的 |correct adj 正确的 vt 纠正 |correlate vt 相关联|
+correspondence n 对应；符合；通信 |corroborate vt 确证 |corrode v 腐蚀|
 cosmopolitan adj 全世界的 |costume n 服装 |counsel n 商议 忠告 律师 v 劝告|
 couple n 一对夫妇 |counterfeit n 赝品 adj 伪造 假冒的 |counterpart n 相对物；极相似之物|
 countless adj 无数的 |court n 法庭 v  追求 |courteous adj 有礼貌的；谦恭的|
@@ -49,8 +49,8 @@ currency n 通货； 通用；市价 |current adj 现今的 n （液体，气体
 curt adj 简短的，草率的 |curtail vt 缩减 |cushion n 垫层 vt 缓解
 custom n 习惯；进口税 |cynical adj 讥讽的，冷嘲热讽的 |dab vt 轻拍
 dagger n 短剑 |damp adj 超市的，有湿气的 |dampen vt 使潮湿；使沮丧
-dangenous adj 危险的 |dangel v 悬摆 |dank adj 阴湿的
-daring adj 大胆的，勇敢的 |dart vt 投掷 |dated adh 有年头的， 陈旧的
+dangerous adj 危险的 |dangle v 悬摆 |dank adj 阴湿的
+daring adj 大胆的，勇敢的 |dart vt 投掷 |dated adj 有年头的， 陈旧的
 dauntless adj 勇敢的 |daze n 昏晕 vt 使发昏，茫然 |dazzle vt 使目眩；使迷惑
 dazzling adj 耀眼的 |dead adv 完全地 |deadly adj 致命的，极度的
 deal vi 处理，交易
@@ -86,14 +86,14 @@ desperate adj 不顾一切的；绝望的 | despicable adj 可鄙的 | despise v
 despoil vt 夺取；抢劫 | dessert n 甜点 | destination n 目的地
 destine vt 指定；命运注定 | destiny n 命运 | destructive n 命运
 detach vt 分开；分离 | detached adj 分离的；公正的 | detain vt 使延迟；拘留
-detect vt 探测，发觉 | dectectable adj 可发觉的，可看穿的 | determination n 决定，决心
+detect vt 探测，发觉 | detectable adj 可发觉的，可看穿的 | determination n 决定，决心
 determine vt 决定 | deterrent n 制止物，威慑物 | detest vt 憎恶
 detract vi 去掉；减损 | detriment n 损害 | detrimental adj 有害的，有损的
 devastate vt 使荒废；使破坏 | develop v 发展；产生；成长 | deviate v 出轨；离题
 device n 器械，装置；设计
 ## wordlist 16
 devious adj 曲折的 | devise vt 计划；发明 | devoid adj 缺乏的
-devoted adj 热心的 | devition n 献身；忠诚；专心 | devour vt 吞食，吞没；毁灭
+devoted adj 热心的 | devotion n 献身；忠诚；专心 | devour vt 吞食，吞没；毁灭
 devout adj 虔诚的 | dexterous adj 灵巧的 | diagnose vt 诊断，分析
 diagnosis n 诊断 | diagram n 图表 | dialect n 方言，土语，地方话
 dialogue n 对话 | diameter n 直径 | dictatorial adj 独裁的，专断的
@@ -103,8 +103,8 @@ dilate vt 使膨胀，使扩大 | dilemma n 左右为难，困境 | diligent adj
 dilute vt 稀释；冲淡 | dim adj 昏暗的；朦胧的 | dimension n 尺度；维
 diminish vt 减少；缩小 | diminutive adj 小的 | dingy adj 昏暗的；肮脏的 
 dip v 浸，粘 | diplomacy n 外交，策略 | diplomatic adj 外交的；有策略的
-direct vt 引导 adj 直接地 | disarm vt 缴械；消除（敌意）| diaarming adj 消除敌意的
-disarrange vt 扰乱 | disarray n／vt 杂乱，混乱 | disater n 灾难
+direct vt 引导 adj 直接地 | disarm vt 缴械；消除（敌意）| disarming adj 消除敌意的
+disarrange vt 扰乱 | disarray n／vt 杂乱，混乱 | disaster n 灾难
 disastrous adj 灾难性的；悲惨的 | disband v 解散 | disburse vt 支付，支出，分配
 discard vt 丢弃 | discern vt 辨明 | discernible adj 可察觉的
 discharge v 释放 | disciple n 门徒 | discipline n 学科；纪律；训练
@@ -114,3 +114,24 @@ discretion n 判断力；慎重的 | discrimination n 歧视 | disdain vt 轻视
 disfigure vt 破坏 | disgraced adj 不光彩的，丢脸的 | disgust vt 厌恶
 disinterested adj 公正的 | dismal adj 沮丧的；阴暗的 | dismay vt 使沮丧；使惊愕
 disparage vt 轻视；毁谤
+## wordlist 17
+dispatch vt 分配；派遣 | dispensable 可有可无的 | displace vt 取代转移
+dispose vi 处理；丢掉 | disposition n 性情 | disprove vt 反驳
+dispute n／v 争论，辩论 | disreputable adj 声名狼藉的 | disrespectful adj 无礼的，轻视的
+disrupt vt 使中断，使分裂 | dissect vt 解剖；详细研究 | dissemble v 隐藏；伪装
+disseminate vt 散布，传播 | dissimilar adj 不相似的，不同的 | dissimulate vt 假装，掩饰
+dissipate v 驱散，消散 | distant adj 远的 | distillation n 蒸馏
+distort vt 歪曲 | distract vt 分散（心思），打扰 | distressed adj 痛苦的
+distribute vt 分发，发送；发布 | disunite vt 使分离 | diverge vt 分歧，差异
+divergent adj 分叉的，分歧的 | diverse adj 不同的 | diversify 使多样化
+divide vt 分割，除 | divulge vt 宣布；泄漏 | doctrine n 教义；主义；学说
+dodge vt 躲开；逃避责任 | dogma n 教义，教条 | dogmatic adj 教条的；武断的
+doleful adj 悲哀的 | dolphin n 海豚 | domain n 领土，领域 
+domestic adj 家内的；国内的 | domesticate vt 驯养，教化 | dominate vt 统治，支配，控制
+dominant adj 占优势的，主导的 | domineering adj 盛气凌人的；专权的 | donate vt 捐赠
+donor n 捐助者 | doomed adj 命定的，注定失败的 | dormant adj 休眠的
+dormitory n 宿舍 | doubt vt／n 怀疑 | downcast adj 沮丧的 
+downhearted adj 无精打采的 | doze vi 瞌睡 | draft n 草案 v 起草，设计
+drag vt 拖动 | drastic adj 激烈的，严厉的 | draw v 吸引，拉；画 
+drawback n 弊端；退款 | dread n 畏惧，恐怖，v 畏惧 | drift n／v 漂流 
+drizzle v 下细雨
