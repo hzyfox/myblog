@@ -135,3 +135,24 @@ downhearted adj 无精打采的 | doze vi 瞌睡 | draft n 草案 v 起草，设
 drag vt 拖动 | drastic adj 激烈的，严厉的 | draw v 吸引，拉；画 
 drawback n 弊端；退款 | dread n 畏惧，恐怖，v 畏惧 | drift n／v 漂流 
 drizzle v 下细雨
+## wordlist 18
+drought n 干旱 | drowsy adj 昏昏欲睡的 | drudgery n 苦差事
+dual adj 二重的 | dubious adj 怀疑的 | ductile adj 柔软的；驯良的
+dumb adj 哑的，无言的 | durable adj 耐久的，耐用的 | duration n 持续时间，为期
+dusky adj 微暗的，皮肤黑色的 | dwell vi 居住 | dwelling n 住所
+dwindle vi 减少 | dye 颜料 v 染色 | eager adj 渴望的，热心的 | ebb vi 退潮；衰退
+eccentric adj 古怪的 | economic adj 经济的 | economical adj 节约的，经济的
+economics adj 经济的 | economize vi 节俭 | ecstasy n 恍惚；狂喜 
+edge n 边 | edible adj 可食的 | edify vt 陶冶，教化
+efface vt 涂抹；消除 | effect n 效果，印象 | effective adj 有效的；有影响的 
+effectuate vt 使实现 | efficient adj 有效率的 | effort n 努力，成就
+effuse vt 流出；散布 | egoist n 自我主义者 | eject vt 喷出，逐出 
+elaborate vt 精心制作，详细阐述；adj 精心构思的 | elapse vi （时间）消逝 | elasticity n 弹性
+elation n 得意洋洋 | election n 选举 | elegant adj 优雅的；雅致的 
+element n 元素 | elementary adj 基本的，初级的 | elevate vt 提高（思想）；抬高
+elicit vt 得出；引出 | elite n 精华，中坚 | eloquence n 雄辩
+eloquent adj 雄辩的，有口才的 | elucidate vt 阐明，说明 | elude vt 困惑,躲避
+elusive adj 难懂的；躲避的 | emaciate vt 使瘦弱 | emaciated adj 瘦弱的；憔悴的
+embalm vt 铭记；使不朽 | embarrass vt 使困窘 | embellish vt 装饰
+embezzle vt 盗用 | embody vt 体现；包含
+
