@@ -57,25 +57,25 @@ fancybox: false
 <img src="/images/adage.jpg" title="能耐天磨乃铁汉，不招人妒是庸才。" style="width:200px;">
 
 > "风陵渡口初相遇，一见杨过误终身。只恨我生君已老，断肠崖前忆古人。"
+<!--<p class="sign"><span>——</span> 观《神雕侠侣》, 有感</p>-->
 
-> <p class="sign"><span>——</span> 观《神雕侠侣》, 有感</p>
+> " 世间文字八万个，唯有情字最伤人。一回眸，勾魂，一微笑，摄魄。无奈，只能默默的在背后看着她 Do what I can do for her---Ms Wang"   
 
-## 博主教育经历
+## 教育经历
 - **M.S.** Computer Science && Parallel Computing and Distributed Processing and Application(September, 2017)
 @ [**Huazhong University of Science and Technology**](http://english.hust.edu.cn/), Hubei, P.R.China
 
 - **B.S.** Computer Science &&  (September, 2013)
 @ [**Huazhong University of Science and Technology**](http://english.hust.edu.cn/), Hubei, P.R.China
 
-## 博主联系方式
+## 联系方式
 - Email: cszhenyuhu@gmail.com cs.zyhu@qq.com
 
-## 博主个人简介
-- 天生喜欢琢磨
-- 最近热爱运动
+## 个人简介
+- 喜欢琢磨
+- 热爱运动
 - 程序猿一只
-- 单身
-- 最近好像迷恋上了去图书馆自习zzz
+
 
 
 
