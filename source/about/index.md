@@ -59,8 +59,6 @@ fancybox: false
 > "风陵渡口初相遇，一见杨过误终身。只恨我生君已老，断肠崖前忆古人。"
 <!--<p class="sign"><span>——</span> 观《神雕侠侣》, 有感</p>-->
 
-> " 世间文字八万个，唯有情字最伤人。一回眸，勾魂，一微笑，摄魄。无奈，只能默默的在背后看着她 Do what I can do for her---Ms Wang"   
-
 ## 教育经历
 - **M.S.** Computer Science && Parallel Computing and Distributed Processing and Application(September, 2017)
 @ [**Huazhong University of Science and Technology**](http://english.hust.edu.cn/), Hubei, P.R.China
